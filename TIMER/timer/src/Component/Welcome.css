@@ -1,0 +1,44 @@
+body {
+    background: url("https://static.pexels.com/photos/6663/desk-white-black-header.jpg") no-repeat center center fixed;
+    background-size: cover; 
+  }
+
+
+
+.glob{
+    border-radius: 10PX;
+    margin-top: 200px;
+    margin-left: 370px;
+    border:2px solid  red;
+    width: 400px;
+    height: 300px;
+    padding-left:200px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+.btn-action{
+    width: 100px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.btn-action:hover{
+    background-color: red;
+}
+.reset{
+    margin-left: 30px;
+}
+.inpt{
+    margin-left: 30px;
+    width: 100px;
+    height: 25px;
+    
+    border-radius: 10px;
+    color :blue;
+}
+.parg{
+    margin-left: -50px;
+}
+.nb{
+    font-weight: bold;
+}
